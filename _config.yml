@@ -1,7 +1,7 @@
 name: AnneMiller
 favicon: null
-layout_spectrum: 0.51881
-typography_spectrum: 0.06728
+layout_spectrum: 0.5458551216870546
+typography_spectrum: 0.5019140425138175
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fbe6d1'
-    - '#d29480'
-    - '#d8ae98'
-    - '#943e31'
-    - '#b50805'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5051731632556766
+  lightness: 0.16122695640660822
+  saturation: 0.1936936816200614
+  rhythmicContrast: 0.15611729794181883
 purpose: []
