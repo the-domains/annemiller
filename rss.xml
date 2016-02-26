@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AnneMiller]]></title>
+        <description><![CDATA[AnneMiller]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 23:24:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personal Development Pic]]></title>
+            <description><![CDATA[<article><h1>Personal Development Pic</h1><p>What the F is personal development, and why are people so obsessed with it?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2220293-0a22-42ec-97ab-eaa684974eb4.jpg"></article>]]></description>
+            <link>undefined4d0b9c0c-34e3-4dec-a694-d6119dc74010/index.html</link>
+            <guid isPermaLink="false">4d0b9c0c-34e3-4dec-a694-d6119dc74010</guid>
+            <pubDate>Thu, 25 Feb 2016 23:23:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
